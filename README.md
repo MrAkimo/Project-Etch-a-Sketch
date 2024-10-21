@@ -1,2 +1,2 @@
 # Proyect-Etch-a-Sketch
-Proyect-Etch-a-Sketch
+Project-Etch-a-Sketch
