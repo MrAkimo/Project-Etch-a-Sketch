@@ -1,5 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
 #container {
+    align-self: center;
     display: grid;
+    height: 80%;
+    width: 80%;
+    background-color: gainsboro;
+    padding: 10px;
 }
 
 #container div:hover {
