@@ -1,14 +1,24 @@
 body {
+    background-color: antiquewhite;
     display: flex;
+    align-items: center;
     flex-direction: column;
     height: 100vh;
 }
+
+button {
+    margin-bottom: 12px;
+    background-color: rosybrown;
+    border-color: wheat;
+    width: 20%;
+}
+
 #container {
     align-self: center;
     display: grid;
     height: 80%;
     width: 80%;
-    background-color: gainsboro;
+    background-color: oldlace;
     padding: 10px;
 }
 
